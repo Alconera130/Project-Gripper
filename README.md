@@ -1,4 +1,4 @@
-# Hand Rehab Gripper Firmware
+# Project Gripper Firmware
 
 This PlatformIO project turns an ESP32 Dev Module, two Muscle Sensor v3-style EMG boards, and five MG996R servos into a **bench-first prototype** with:
 
